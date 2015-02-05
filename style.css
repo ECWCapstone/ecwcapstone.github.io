@@ -5,3 +5,7 @@ body {
 img.logo {
 	height: 75px;
 }
+
+.content {
+	margin-bottom: 20px;
+}
